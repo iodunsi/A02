@@ -59,6 +59,6 @@
 <br>
 <br>
 
-Resources
+# Resources
 
 - [JetBrains article](https://help-center.atlasbeta.so/jetbrains/articles/205824-webstorm-for-front-end-development)
