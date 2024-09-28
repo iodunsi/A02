@@ -18,15 +18,15 @@
 <br>
 <br>
 
-**Fetch**
+**Fetch** - git fetch is used to retrieve updates from a remote repo, typically another person's cloned or forked repo, and sync those changes into you working directory
 <br>
 <br>
 
-**GIT**
+**GIT** - A version control system that tracks changes and allows developers to work on different parts of the same project independently.
 <br>
 <br>
 
-**Github**
+**Github** - Uses git for version control but adds issue tracking, project management, and collaboration tools to enable developers to work together in a more convenient manner.
 <br>
 <br>
 
@@ -46,7 +46,7 @@
 <br>
 <br>
 
-**Remote** - 
+**Remote** - Anything having to do with online, and not your local machine.
 <br>
 <br>
 
