@@ -1,5 +1,10 @@
 # PART 1: Directions on Using Webstorm.
 
+1. Install Webstorm from the JetBrains website.
+2. Launch Webstorm, and create a new project. File formats that are available include HTML, CSS, and Javascript. 
+3. Get familiar with the code editor that includes helpful features such as autocomplete, syntax highlight and error checking.
+4. Connect Webstorm to Git to enable Git tools such as push, poll, and committing changes.
+
 
 
 
@@ -54,3 +59,6 @@
 <br>
 <br>
 
+Resources
+
+- [JetBrains article](https://help-center.atlasbeta.so/jetbrains/articles/205824-webstorm-for-front-end-development)
